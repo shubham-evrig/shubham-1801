@@ -1,14 +1,14 @@
 Hey there! 👋 I'm Shubham a passionate backend developer with a focus on PHP and Magento platform. I thrive on turning ideas into scalable and efficient solutions.
 
-🌐 Currently interning at Evrig Solution, Ahmedabad
-💼 PHP Backend Developer Intern
-🛠️ Specializing in Magento platform development
+🌐 Currently Working at Evrig Solution, Ahmedabad
+💼 As A Jr. Magento Developer
+🛠️ Specializing in Magento E-commerce platform development
 
 Experience
 
 Evrig Solution, Ahmedabad
-Role: PHP Backend Developer Intern
-Duration: 25-September - At Present
+Role: Jr. Magento Developer
+Duration: 25 September - At Present
 
 Responsibilities:
 Collaborated on Magento platform projects.
